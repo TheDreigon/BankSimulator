@@ -8,11 +8,11 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.thedreigon.luAdvanced.springBoot</groupId>
-	<artifactId>creditCard</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>creditCard</name>
-	<description>Project for Spring Boot Advanced Learning Unit</description>
+	<groupId>com.thedreigon.springBoot</groupId>
+	<artifactId>bankSimulator</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>Bank Simulator 3000</name>
+	<description>A simple bank simulator</description>
 
 	<properties>
 		<java.version>1.8</java.version>
