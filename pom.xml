@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.thedreigon.springBoot</groupId>
+	<groupId>com.github.td</groupId>
 	<artifactId>bankSimulator</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>Bank Simulator 3000</name>
